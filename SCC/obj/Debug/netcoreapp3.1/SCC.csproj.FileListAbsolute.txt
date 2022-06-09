@@ -1,0 +1,6 @@
+C:\Users\Pichau\source\repos\SCC\SCC\obj\Debug\netcoreapp3.1\SCC.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\SCC\SCC\obj\Debug\netcoreapp3.1\SCC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\SCC\SCC\obj\Debug\netcoreapp3.1\SCC.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\SCC\SCC\obj\Debug\netcoreapp3.1\SCC.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\SCC\SCC\obj\Debug\netcoreapp3.1\SCC.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\SCC\SCC\obj\Debug\netcoreapp3.1\SCC.MvcApplicationPartsAssemblyInfo.cache

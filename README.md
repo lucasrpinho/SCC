@@ -1,6 +1,9 @@
 # SCC - Sistema de Calculo de Comissão
 ## Web API in ASP.NET Core as a test.
 
+### Lógica do POST
+- SCC/Controllers/ComissaoController.cs
+
 ### Projeto criado no Visual Studio 2022 utlizando o formato Web Api do ASP.Net Core.
 #### .Net 6.0
 

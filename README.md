@@ -7,6 +7,8 @@
 ### Projeto criado no Visual Studio 2022 utlizando o formato Web Api do ASP.Net Core.
 #### .Net 6.0
 
+#### Kestrel
+
 Testado localmente rodando diretamente na IDE, uma página é aberta no localhost<porta> e você pode testar a requisição POST passando o parâmetro desejado (o json precisa estar no formato certo e com os mesmos atributos da entidade especificada no parâmetro da requisição), caso o BODY seja vazio, usará dados criados localmente (MOQ não foi utilizado).
 
 # Usado [FromBody]

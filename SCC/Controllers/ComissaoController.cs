@@ -11,7 +11,7 @@ namespace SCC.Controllers
     public class ComissaoController : Controller
     {    
         [HttpPost]
-        public string calculaComissao([FromBody] List<Pedidos> pedidos)
+        public ActionResult<string> calculaComissao([FromBody] List<Pedidos> pedidos)
         {
             var lstOrderedBySeller = new List<List<Pedidos>>();
             //if json from body is empty then use mocked data (MOQ was not used)
